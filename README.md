@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)
+[![Social banner for ujwal-yadav](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://ujwal-yadav.github.io/personalwebsite/)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Jhey.
