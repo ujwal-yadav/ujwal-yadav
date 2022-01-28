@@ -1,3 +1,2 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Ujwal%2oKumarYadav&width=800&height=400)]()
-
+[![SVG Banners](https://svg-banners.vercel.app/api?type=textBox&text1=UJWAL%20YADAV%20&width=800&height=400)]
 ### Hi there 👋
