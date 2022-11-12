@@ -1,2 +1,15 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=textBox&text1=UJWAL%20%20YADAV%20&width=1200&height=300)](https://ujwal-yadav.github.io/personalwebsite/)
+
 ### Hi there 👋
+<h2 align="center">Hi 👋, I am Angelo • Full-Stack Developer • Instructor • Student</h2>
+
+<p align="center">
+  <a href="https://angelo.dini.dev/">Website</a> • 
+  <a href="https://twitter.com/FinalAngel">Twitter</a> • 
+  <a href="https://www.facebook.com/angelo.dini.dev/">Facebook</a> • 
+  <a href="https://www.linkedin.com/in/angelo-dini/">LinkedIn</a>
+</p>
+
+<p align="center">
+  <a href="https://angelo.dini.dev/"><img src="https://github-readme-stats.vercel.app/api?username=finalangel&show_icons=true&hide=stars" alt="My GitHub Stats" /></a>
+  <a href="https://angelo.dini.dev/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=finalangel&layout=compact" alt="My Languages" /></a>
+</p>
