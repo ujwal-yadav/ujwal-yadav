@@ -1,3 +1,3 @@
 
 ### Hi there 👋
-[![SVG Banners](https://svg-banners.vercel.app/api?type=textBox&text1=UJWAL%20%20YADAV%20&width=1500&height=300)](https://ujwal-yadav.github.io/personalwebsite/)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Ujwal&width=800&height=400)](https://ujwal.vercel.app)
